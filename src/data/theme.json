@@ -1,8 +1,8 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Danny Davies Art",
+  "header_title": "Danny Davies Art",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "davieswerks@gmail.com",
   "social": [
     {
       "channel": "twitter",
@@ -11,7 +11,7 @@
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "dannydaviesartist",
       "link_text": "ig"
     },
     {
