@@ -1,4 +1,16 @@
 ---
-label: Blog Post
+label: Gallery page
 hide_body: false
-fields: []
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: 'Gallery title '
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery
+  description: Gallery
